@@ -1,8 +1,8 @@
 ---
 title: "ReadMe.Md"
 output: github_document
-author: "Kathy Targowski Ashenfelter"
-date: "July 10, 2017"
+author: "Catalina Barco-Castillo"
+date: "July 04, 2019"
 ---
 
 ## Course Project Overview
